@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #output looks like this:
 #
 #➜  hello-world git:(master) ✗ ./hello-world.sh --count 5 --phrase "hello world"   
